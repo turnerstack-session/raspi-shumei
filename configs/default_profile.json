@@ -1,0 +1,7 @@
+{
+  "profile_id": "jayden-la",
+  "proxy": "socks5://127.0.0.1:1080",
+  "region": "Los Angeles",
+  "browser": "headless",
+  "max_session_time": 1800
+}
